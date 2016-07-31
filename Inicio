@@ -1,0 +1,19 @@
+Inicio
+Se declaran las variables:  P1 = 0
+Leer las notas que digite el usurio.
+Si P1>=19 and P1<=20 Entonces
+   Imprimir= "A"
+   Si no(De lo contrario)
+Si P1>=16 and P1<=18 Entonces
+   Imprimir= "B"
+   Si no (De lo contrario)
+Si P1>=13 and P1<=15 Entonces
+   Imprimir= "C"
+   Si no (De lo contrario)
+Si P1>=10 and P1<=12 Entonces
+   Imprimir= "D"
+   Si no (De lo contrario)
+Si P1>=1 and P1<=9 Entonces
+   Imprimir= "E"
+   Si no (De lo contrario)
+Fin si
